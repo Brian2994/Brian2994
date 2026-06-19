@@ -1,41 +1,66 @@
-## Olá, eu sou Pablo Brian, Engenheiro de Computação 👨‍🎓,<br>unindo Engenharia de Software 👨‍💻 e Dados 🎲 para criar soluções escaláveis.
+# Fala aí! Eu sou o Pablo Vargas 👋 💻
 
-Sou focado em transformar volumes massivos de dados brutos em ativos estratégicos, confiáveis e altamente escaláveis. Minha missão é unir o rigor da engenharia de software à robustez da engenharia de dados para construir produtos digitais e plataformas inteligentes.
-Com um perfil híbrido e mentalidade "skin in the game", atuo no desenvolvimento de soluções Full-Stack e arquiteturas de dados de ponta a ponta. Minha experiência engloba desde a ingestão, tratamento e governança da informação até a entrega de valor final por meio de interfaces modernas, dashboards corporativos e APIs resilientes.
+Bem-vindo ao meu ecossistema de código. Esse GitHub é o meu laboratório pessoal, o lugar onde transformo café em arquiteturas de software e coloco a mão na massa para construir projetos reais, do banco de dados ao deploy final.
 
-Desenvolvo projetos levando soluções de software e dados da concepção ao deploy. Garanto não apenas a performance do Data Warehouse e a confiabilidade das consultas, mas a resiliência total dos sistemas que alimentam as tomadas de decisão — construindo desde o pipeline que processa a informação até a interface web que a exibe de forma clara. Tenho um olhar analítico e rigoroso voltado para a otimização de código, monitoramento de logs e eficiência de recursos em nuvem.
+Sou **Engenheiro de Computação** e meu foco é unir o rigor de um engenheiro de software com a robustez de um engenheiro de dados. Gosto de resolver problemas complexos e criar plataformas inteligentes que aguentem o tranco.
 
-<div style="display: inline-block"><br>
-  <img align="center" alt="Js" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Apache Airflow" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Google Cloud" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+---
+
+### 🛠️ No que eu piloto no dia a dia (Core Stack)
+
+<div style="display: inline-block">
+  <!-- Dados & Pipelines -->
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Apache Airflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
+  
+  <!-- Back-End & Arquitetura SaaS -->
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  
+  <!-- Front-End & UI -->
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <!-- Infra, DevOps & Cloud -->
+  <img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-##
+<br>
+
+- **Dados & Pipelines:** Python • SQL • PySpark • Databricks • Arquitetura Medallion (Bronze/Silver/Gold)
+- **Back-End & Arquitetura SaaS:** Node.js • TypeScript • Prisma ORM • FastAPI • Autenticação/RBAC • Sistemas Multi-tenant
+- **Front-End & UI:** React • JavaScript • HTML5 • CSS3 • Consumo de APIs & UX Responsiva
+- **Infra, DevOps & Cloud:** Google Cloud Platform (GCP) • BigQuery • Cloud Storage • Apache Airflow • Docker • Docker Compose • PostgreSQL • MySQL
+
+---
+
+### 🚀 O que você vai encontrar por aqui?
+
+Este perfil concentra os meus **projetos autorais e de portfólio**, onde coloco em prática conceitos pesados de mercado:
+
+- **SaaS de Verdade:** Projetos com isolamento completo de dados entre clientes (Multi-tenancy) e controle de acesso modular.
+- **Pipelines Sem Firula:** Fluxos automatizados de ETL/ELT criados para rodar de forma limpa, com foco em monitoramento, logs e eficiência de custos na nuvem.
+- **APIs Que Não Caem:** Desenvolvimento back-end focado em resiliência, tratamento de erros e conexões seguras.
+
+---
+
+### 📊 Por trás das telas
+
+- 🔭 **Estudo Atual:** Desbravando orquestrações de dados ainda mais complexas e resiliência de microsserviços.
+- ⚙️ **Meu Setup:** Desenvolvimento rodando 100% em ambientes containerizados com Docker e WSL2.
+- 💬 **Idiomas:** Nativo em Espanhol, fluente em Português e com o Inglês Técnico afiado para documentação.
+
+🌐 **Quer trocar uma ideia profissional?** Me chama no:
+
 <div>
   <a href="https://www.linkedin.com/in/pablobrianpv/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  
 </div>
