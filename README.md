@@ -1,7 +1,9 @@
 ## Olá, eu sou Pablo Brian, Engenheiro de Computação 👨‍🎓,<br>unindo Engenharia de Software 👨‍💻 e Dados 🎲 para criar soluções escaláveis.
 
-Sou focado em transformar volumes massivos de dados brutos em ativos estratégicos, confiáveis e escaláveis. Minha missão é unir o rigor da engenharia de software à robustez do processamento de dados para construir produtos digitais inteligentes.
-Com experiência na stack de Dados e Backend, atuo na construção de ecossistemas que garantem a integridade da informação — desde a ingestão massiva até a entrega final via APIs resilientes.
+Sou focado em transformar volumes massivos de dados brutos em ativos estratégicos, confiáveis e altamente escaláveis. Minha missão é unir o rigor da engenharia de software à robustez da engenharia de dados para construir produtos digitais e plataformas inteligentes.
+Com um perfil híbrido e mentalidade "skin in the game", atuo no desenvolvimento de soluções Full-Stack e arquiteturas de dados de ponta a ponta. Minha experiência engloba desde a ingestão, tratamento e governança da informação até a entrega de valor final por meio de interfaces modernas, dashboards corporativos e APIs resilientes.
+
+Desenvolvo projetos levando soluções de software e dados da concepção ao deploy. Garanto não apenas a performance do Data Warehouse e a confiabilidade das consultas, mas a resiliência total dos sistemas que alimentam as tomadas de decisão — construindo desde o pipeline que processa a informação até a interface web que a exibe de forma clara. Tenho um olhar analítico e rigoroso voltado para a otimização de código, monitoramento de logs e eficiência de recursos em nuvem.
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Js" height="30" width="40"
